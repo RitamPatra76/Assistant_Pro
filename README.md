@@ -1,5 +1,4 @@
 # Assistant_Pro
-Here’s a brief `README.md` for your GitHub repository:
 
 ---
 
