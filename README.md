@@ -32,10 +32,3 @@ This project was developed with the assistance of:
 
 They helped in building the Streamlit interface for deploying the model.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-You can copy and paste this into a `README.md` file in your GitHub repository. Make sure to update the `git clone` link with your actual repository URL.
