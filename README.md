@@ -28,7 +28,11 @@ You can try the chatbot live on Hugging Face Spaces by visiting the following li
 This project was developed with the assistance of:
 
 - **Rohan KS**
-- **Haargi Rupapara**
+- **Hargi Rupapara**
 
 They helped in building the Streamlit interface for deploying the model.
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/670af5f1-5fe8-489d-adf8-dda9b5d6616e)
+
 
